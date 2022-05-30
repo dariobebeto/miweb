@@ -8,4 +8,6 @@ date: 26 May 2022
 function __get_first_char($input) {
     return $input[0];
 }
+
+// Modify one
 ?>
